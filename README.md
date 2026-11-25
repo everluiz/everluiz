@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Everton 👋
 
-<!--
-**everluiz/everluiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a PhD student in Electrical and Computer Engineering at UTFPR (Curitiba, Brazil) and a substitute lecturer in the Informatics Department at UTFPR Pato Branco.
 
-Here are some ideas to get you started:
+🔬 **Research:** Energy Management Systems (EMS) for DC microgrids integrating photovoltaic generation, battery storage (BESS) and green hydrogen production via alkaline water electrolysis, as part of the PV2H2 project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **What I work with:**
+- Embedded systems & firmware (C, C++, TI C2000 DSPs, BeagleBone, Raspberry Pi)
+- Industrial communication (CAN bus, LoRa)
+- Modeling & simulation (MATLAB/Simulink)
+- Python, machine learning and data analysis
+
+👨‍🏫 **Teaching:** Algorithms & Programming and Object-Oriented Programming (C, C++, Python) for engineering students.
+
+📫 [LinkedIn](https://www.linkedin.com/in/everton-luiz-pagnoncelli)
